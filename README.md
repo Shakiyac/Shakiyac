@@ -1,106 +1,86 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Shakiya+Cole!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Howdy!+%F0%9F%91%8B;+I'm+Shakiya+Cole!" />
 </h1>
 
-<h3 align="center">Programmer | Cybersecurity Professional 🔐</h3>
+<h3 align="center">Cybersecurity Professional | Security+ Certified | Passionate About Defense, Detection, and Compliance</h3>
 
 <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
 
-🔍 Security+ Certified Cybersecurity Professional | Hands-On with Linux, SIEM, Vulnerability Scanning & More. Explore my projects to see how I’ve enhanced security operations and processes!
-
-<h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
-
-### 🟣 PURPLE TEAM 🟣
-#### 🎯 Full SIEM
-- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Shakiyac/Cloud-Soc)** *(Live Traffic)*
-- **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/Shakiyac/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People)**
-- **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/Shakiyac/Splunk-SIEM)** *(Live Traffic)*  
+### 🔎 About Me
+Security+ certified and focused on mastering practical cybersecurity skills through hands-on labs and personal projects. I enjoy building, breaking, and securing systems — and making sure they're compliant too.
 
 ---
 
-### 🔵 BLUE TEAM 🔵
-#### ⚠️ Vulnerability Management Projects
-- **[Full Vulnerability Management Program Implementation](https://github.com/Shakiyac/vulnerability-management-program)**  
-- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/Shakiyac/stig-implementations)**
-- **[10+ Ensure-Audit-Remediation-Win-Server for Password, Encryption, Admin (PowerShell)](https://github.com/Shakiyac/Audit-Remediation-Win-Server/tree/main)**
-- **[15+ Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Shakiyac/Remediation-Automation-Bash-And-Powershell/tree/main/automation)** 
-- **[Vulnerability Management in Azure Sandbox](https://github.com/Shakiyac/nessus-vulnerability/blob/main/README.md)**
-
-#### 🚨 Threat Hunting & Security Operations
-- **[Incident Response: Phishing via Fake Software Update ](https://github.com/Shakiyac/PhishingSoftwareUpdate)**
-- **[Incident Response: Threat Hunting (Operation Jackal Spear) ](https://github.com/Shakiyac/Threat-Hunting-Scenario-Operation-Jackal-Spear/tree/main)**
-- **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/Shakiyac/Zero-Day-Ransomware-PwnCrypt-Outbreak/blob/main/README.md)**
-- **[Incident Response: Remote Code Execution Detected](https://github.com/Shakiyac/Remote-Code-Execution-Detection/blob/main/README.md)**
-- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/Shakiyac/threat-hunting-scenario-tor)**
-- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/Shakiyac/Create-Alert-Rule-Brute-Force-Attempt-Detection-/blob/main/README.md)**
-- **[Incident Response: Email-Phishing (Urgent Account Suspended)](https://github.com/Shakiyac/Incident-Response-Email-Phishing-/blob/main/README.md)**
-- **[Incident Response: Email Analysis (Phishing)](https://github.com/Shakiyac/Email-Analysis-Phishing)**
-- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/Shakiyac/Create-Alert-Rule-PowerShell-Suspicious-Web-Request-/tree/main)**
-- **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/Shakiyac/Potential-Impossible-Travel-Alert/tree/main)**
-- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/Shakiyac/Data-Exfiltration/tree/main)**
-- **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/Shakiyac/DeviceInfo-Public-Ip-Address-Detected)**
-- **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/Shakiyac/Sudden-Network-Slowdowns/tree/main)**
-- **[Compliance Framework Implementation (NIST)](https://github.com/Shakiyac/NIST-Compliance/tree/main)**   
-
-### GRC Analyst ###
-- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/Shakiyac/GRC-Analyst-Project)**
-
-###   IT Projects
-- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/Shakiyac/AD-Lab)**
+## 🟣 PURPLE TEAM
+### 🎯 Full SIEM Projects
+- **[Cloud-Soc](https://github.com/Shakiyac/Cloud-Soc)** — SOC + Honeynet on Azure; simulated attacks & remediations *(Live Traffic)*
+- **[KQL-Map](https://github.com/Shakiyac/KQL-Map)** — Visualizing data for non-technical stakeholders using KQL
+- **[Splunk-SIEM](https://github.com/Shakiyac/Splunk-SIEM)** — Splunk deployment, attack simulation & alerting *(Live Traffic)*
 
 ---
 
-### 🤖 Coding Projects:
-- **[Web Development Portfolio](https://trevinoportfolio2024.netlify.app)**
----
-### 📺 YouTube Videos:
+## 🔵 BLUE TEAM
+### ⚠️ Vulnerability Management
+- **[Vulnerability-Program](https://github.com/Shakiyac/Vulnerability-Program)** — End-to-end VM process: scanning, prioritizing, remediating
+- **[STIG-PowerShell](https://github.com/Shakiyac/STIG-PowerShell)** — 20+ DISA STIGs automated via PowerShell
+- **[Audit-Remediation](https://github.com/Shakiyac/Audit-Remediation)** — Windows server audit & policy enforcement
+- **[Programmatic-Remediation](https://github.com/Shakiyac/Programmatic-Remediation)** — Automated fixes using Bash & PowerShell
+- **[Azure-Vulnerability](https://github.com/Shakiyac/Azure-Vulnerability)** — VM in Azure sandbox w/ Nessus scan & hardening
+
+### 🛡️ Threat Hunting & IR
+- **[Phishing-Incident](https://github.com/Shakiyac/Phishing-Incident)** — Fake software update attack + incident response
+- **[Threat-Hunting](https://github.com/Shakiyac/Threat-Hunting)** — Detection scenarios (Tor use, brute force, public IP)
 
 ---
-<h2>🧰 Tools:</h2>
 
-### Network
+## 📊 GRC Analyst Projects
+- **[GRC-Analyst](https://github.com/Shakiyac/GRC-Analyst)** — NIST CSF 2.0 assessment and reporting for a fictional org
+
+---
+
+## 💻 IT Projects
+- **[Active Directory Lab](https://github.com/Shakiyac/Active-Directory-Lab)** — PowerShell to create and manage 1000+ users
+
+---
+
+## 🤖 Coding Projects
+- **[Web Portfolio](https://github.com/Shakiyac/Web-Portfolio)** — HTML/CSS portfolio with interactive project links *(in progress)*
+
+---
+
+## 🧰 Tools & Technologies
+### Network & Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C89?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-### Endpoint
+### SIEM & Testing
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali%20Linux-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-### SIEM
+### Vulnerability & Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-### Security Testing
-<div>
-    <img src="https://img.shields.io/badge/-Atomic_Red_Team-FF0000?&style=for-the-badge&logo=atomic-red-team&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-</div>
-
-### Vulnerability Management
-<div>
-    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
-</div>
-
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ---
 
-<h2>📜 Certifications:</h2>
-- CompTIA Security+ (Issued Jan 2025)
+## 📜 Certifications
+- **CompTIA Security+** *(Issued Jan 2025)*
 
-<h2>🤳 Connect with Me:</h2>
+---
+
+## 🤝 Connect With Me
 <a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
