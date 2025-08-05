@@ -10,7 +10,7 @@
 
 ---
 
-🔍 Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. Explore my projects to see how I’ve enhanced security operations and processes!
+🔍 Security+ Certified Cybersecurity Professional | Hands-On with Linux, SIEM, Vulnerability Scanning & More. Explore my projects to see how I’ve enhanced security operations and processes!
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
