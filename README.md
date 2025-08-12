@@ -26,8 +26,7 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 
 ## 🔵 BLUE TEAM
 ### ⚠️ Vulnerability Management
-[Vulnerability Program](https://github.com/Shakiyac/nessus-vulnerability)
-
+[Vulnerability Program](<paste the correct repo URL here>)
 - **[STIG-PowerShell](https://github.com/Shakiyac/STIG-PowerShell)** — 20+ DISA STIGs automated via PowerShell
 - **[Audit-Remediation](https://github.com/Shakiyac/Audit-Remediation)** — Windows server audit & policy enforcement
 - **[Programmatic-Remediation](https://github.com/Shakiyac/Programmatic-Remediation)** — Automated fixes using Bash & PowerShell
