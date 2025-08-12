@@ -5,7 +5,9 @@
 <h3 align="center">Cybersecurity Professional | Security+ Certified | Passionate About Defense, Detection, and Compliance</h3>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shakiya-cole-58316624b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -19,14 +21,13 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 ### 🎯 Full SIEM Projects
 - **[Cloud-Soc](https://github.com/Shakiyac/Cloud-Soc)** — SOC + Honeynet on Azure; simulated attacks & remediations *(Live Traffic)*
 - **[KQL-Map](https://github.com/Shakiyac/kql-maps-non-tech/tree/main/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People-main)** – Visualizing data for non-technical stakeholders using KQL
-
 - **[Splunk-SIEM](https://github.com/Shakiyac/Splunk-SIEM)** — Splunk deployment, attack simulation & alerting *(Live Traffic)*
 
 ---
 
 ## 🔵 BLUE TEAM
 ### ⚠️ Vulnerability Management
-[Vulnerability Program](<paste the correct repo URL here>)
+[Vulnerability Program](https://github.com/Shakiyac/Azure-Vulnerability)
 - **[STIG-PowerShell](https://github.com/Shakiyac/STIG-PowerShell)** — 20+ DISA STIGs automated via PowerShell
 - **[Audit-Remediation](https://github.com/Shakiyac/Audit-Remediation)** — Windows server audit & policy enforcement
 - **[Programmatic-Remediation](https://github.com/Shakiyac/Programmatic-Remediation)** — Automated fixes using Bash & PowerShell
@@ -56,12 +57,12 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 ---
 
 ## 💻 IT Projects
-- **[Active Directory Lab](https://github.com/Shakiyac/Active-Directory-Lab)** — PowerShell to create and manage 1000+ users
+- **[Active-Directory-Lab](https://github.com/Shakiyac/Active-Directory-Lab)** — PowerShell to create and manage 1000+ users
 
 ---
 
 ## 🤖 Coding Projects
-- **[Web Portfolio](https://github.com/Shakiyac/Web-Portfolio)** — HTML/CSS portfolio with interactive project links *(in progress)*
+- **[Web-Portfolio](https://github.com/Shakiyac/Web-Portfolio)** — HTML/CSS portfolio with interactive project links *(in progress)*
 
 ---
 
@@ -96,4 +97,6 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 ---
 
 ## 🤝 Connect With Me
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shakiya-cole-58316624b" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" />
+</a>
