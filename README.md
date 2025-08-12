@@ -18,7 +18,8 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 ## 🟣 PURPLE TEAM
 ### 🎯 Full SIEM Projects
 - **[Cloud-Soc](https://github.com/Shakiyac/Cloud-Soc)** — SOC + Honeynet on Azure; simulated attacks & remediations *(Live Traffic)*
-- **[KQL-Map](https://github.com/Shakiyac/KQL-Map)** — Visualizing data for non-technical stakeholders using KQL
+- **[KQL-Map](https://github.com/Shakiyac/kql-maps-non-tech/tree/main/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People-main)** – Visualizing data for non-technical stakeholders using KQL
+
 - **[Splunk-SIEM](https://github.com/Shakiyac/Splunk-SIEM)** — Splunk deployment, attack simulation & alerting *(Live Traffic)*
 
 ---
