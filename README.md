@@ -19,50 +19,50 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 
 ## 🟣 PURPLE TEAM
 ### 🎯 Full SIEM Projects
-- **[Cloud-Soc](https://github.com/Shakiyac/Cloud-Soc)** — SOC + Honeynet on Azure; simulated attacks & remediations *(Live Traffic)*
-- **[KQL-Map](https://github.com/Shakiyac/kql-maps-non-tech/tree/main/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People-main)** – Visualizing data for non-technical stakeholders using KQL
-- **[Splunk-SIEM](https://github.com/Shakiyac/Splunk-SIEM)** — Splunk deployment, attack simulation & alerting *(Live Traffic)*
+- **[SOC + Honeynet in Azure (Cloud-Soc)](https://github.com/Shakiyac/Cloud-Soc)** — SOC + Honeynet deployment on Azure; simulated attacks & remediations *(Live Traffic)*
+- **[KQL Maps for Executive Reporting](https://github.com/Shakiyac/kql-maps-non-tech/tree/main/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People-main)** — Visualizing data for non-technical stakeholders using KQL
+- **[Splunk SIEM Deployment & Attack Simulation](https://github.com/Shakiyac/Splunk-SIEM)** — Splunk setup, attack simulation & alerting *(Live Traffic)*
 
 ---
 
 ## 🔵 BLUE TEAM
-### ⚠️ Vulnerability Management
-[Vulnerability Program](https://github.com/Shakiyac/Azure-Vulnerability)
-- **[STIG-PowerShell](https://github.com/Shakiyac/STIG-PowerShell)** — 20+ DISA STIGs automated via PowerShell
-- **[Audit-Remediation](https://github.com/Shakiyac/Audit-Remediation)** — Windows server audit & policy enforcement
-- **[Programmatic-Remediation](https://github.com/Shakiyac/Programmatic-Remediation)** — Automated fixes using Bash & PowerShell
-- **[Azure-Vulnerability](https://github.com/Shakiyac/Azure-Vulnerability)** — VM in Azure sandbox w/ Nessus scan & hardening
+### ⚠️ Vulnerability Management Projects
+- **[Full Vulnerability Management Program Implementation](https://github.com/Shakiyac/Vulnerability-Management)** — End-to-end vulnerability management workflow including scanning, reporting, and remediation  
+- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/Shakiyac/STIG-PowerShell)** — 20+ DISA STIGs automated via PowerShell  
+- **[10+ Audit & Remediation for Windows Server (Password, Encryption, Admin)](https://github.com/Shakiyac/Audit-Remediation)** — Windows server audit & policy enforcement  
+- **[15+ Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/Shakiyac/Programmatic-Remediation)** — Automated fixes using Bash & PowerShell  
+- **[Vulnerability Management in Azure Sandbox](https://github.com/Shakiyac/Azure-Vulnerability)** — Nessus scanning, Azure sandbox hardening, and remediation  
 
 ### 🛡️ Threat Hunting & Security Operations
-- **[Phishing-Software-Update](https://github.com/Shakiyac/Phishing-Software-Update)** — Incident Response: Phishing via Fake Software Update
-- **[Jackal-Spear](https://github.com/Shakiyac/Jackal-Spear)** — Incident Response: Threat Hunting (Operation Jackal Spear)
-- **[Zero-Day-Ransomware](https://github.com/Shakiyac/Zero-Day-Ransomware)** — Incident Response: Zero-Day Ransomware (PwnCrypt)
-- **[Remote-Code](https://github.com/Shakiyac/Remote-Code)** — Incident Response: Remote Code Execution Detected
-- **[Tor-Browser](https://github.com/Shakiyac/Tor-Browser)** — Threat Hunting Incident: Tor Browser Usage
-- **[Brute-Force-Alert](https://github.com/Shakiyac/Brute-Force-Alert)** — Incident Response: Create Alert Rule (Brute Force Attempt Detection)
-- **[Email-Phishing](https://github.com/Shakiyac/Email-Phishing)** — Incident Response: Email-Phishing (Urgent Account Suspended)
-- **[Email-Analysis](https://github.com/Shakiyac/Email-Analysis)** — Incident Response: Email Analysis (Phishing)
-- **[Suspicious-Web](https://github.com/Shakiyac/Suspicious-Web)** — Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)
-- **[Impossible-Travel](https://github.com/Shakiyac/Impossible-Travel)** — Incident Response: Create Alert Rule (Potential Impossible Travel)
-- **[PIP-Exfiltration](https://github.com/Shakiyac/PIP-Exfiltration)** — Threat Hunting Incident: Data Exfiltration from PIP’d Employee
-- **[Public-IP](https://github.com/Shakiyac/Public-IP)** — Threat Hunting Incident: Public Facing IP Detection
-- **[Network-Slowness](https://github.com/Shakiyac/Network-Slowness)** — Threat Hunting Incident: Sudden Network Slowdowns
-- **[NIST-Compliance](https://github.com/Shakiyac/NIST-Compliance)** — Compliance Framework Implementation (NIST)
+- **[Phishing via Fake Software Update](https://github.com/Shakiyac/Phishing-Software-Update)** — Incident Response: Phishing via Fake Software Update  
+- **[Operation Jackal Spear](https://github.com/Shakiyac/Jackal-Spear)** — Threat Hunting incident response for targeted attack campaign  
+- **[Zero-Day Ransomware Outbreak](https://github.com/Shakiyac/Zero-Day-Ransomware)** — Incident Response for PwnCrypt zero-day ransomware  
+- **[Remote Code Execution Detected](https://github.com/Shakiyac/Remote-Code)** — IR for detected RCE attack on server  
+- **[Tor Browser Usage Detection](https://github.com/Shakiyac/Tor-Browser)** — Threat hunting & detection for Tor Browser use  
+- **[Brute Force Attempt Detection](https://github.com/Shakiyac/Brute-Force-Alert)** — Alert rule creation for brute force login attempts  
+- **[Email-Phishing (Urgent Account Suspended)](https://github.com/Shakiyac/Email-Phishing)** — IR for phishing email targeting account suspension  
+- **[Email Analysis (Phishing)](https://github.com/Shakiyac/Email-Analysis)** — In-depth phishing email analysis  
+- **[Suspicious Web Request Detection](https://github.com/Shakiyac/Suspicious-Web)** — PowerShell alert rule for suspicious outbound web requests  
+- **[Potential Impossible Travel Detection](https://github.com/Shakiyac/Impossible-Travel)** — Alert rule for impossible geographic login patterns  
+- **[Data Exfiltration from Terminated Employee](https://github.com/Shakiyac/PIP-Exfiltration)** — Threat hunting for insider data exfiltration  
+- **[Public Facing IP Detection](https://github.com/Shakiyac/Public-IP)** — Identification of publicly exposed IPs  
+- **[Network Slowness Investigation](https://github.com/Shakiyac/Network-Slowness)** — Root cause analysis and remediation of network slowdowns  
+- **[NIST Compliance Framework Implementation](https://github.com/Shakiyac/NIST-Compliance)** — Mapping and implementation of NIST CSF controls  
 
 ---
 
 ## 📊 GRC Analyst Projects
-- **[GRC-Analyst](https://github.com/Shakiyac/GRC-Analyst)** — NIST CSF 2.0 assessment and reporting for a fictional org
+- **[GRC Analyst Project](https://github.com/Shakiyac/GRC-Analyst)** — NIST CSF 2.0 assessment and reporting for a fictional organization  
 
 ---
 
 ## 💻 IT Projects
-- **[Active-Directory-Lab](https://github.com/Shakiyac/Active-Directory-Lab)** — PowerShell to create and manage 1000+ users
+- **[Active Directory User Management Lab](https://github.com/Shakiyac/Active-Directory-Lab)** — PowerShell automation to create and manage 1000+ users  
 
 ---
 
 ## 🤖 Coding Projects
-- **[Web-Portfolio](https://github.com/Shakiyac/Web-Portfolio)** — HTML/CSS portfolio with interactive project links *(in progress)*
+- **[Web Portfolio Project](https://github.com/Shakiyac/Web-Portfolio)** — HTML/CSS portfolio with interactive project links *(in progress)*  
 
 ---
 
@@ -92,7 +92,7 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 ---
 
 ## 📜 Certifications
-- **CompTIA Security+** *(Issued Jan 2025)*
+- **CompTIA Security+** *(Issued Jan 2025)*  
 
 ---
 
