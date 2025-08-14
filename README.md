@@ -30,7 +30,7 @@ Security+ certified and focused on mastering practical cybersecurity skills thro
 - **[Full Vulnerability Management Program Implementation](https://github.com/Shakiyac/vulnerability-management-program)** — End-to-end vulnerability management workflow including scanning, reporting, and remediation  
 - **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/Shakiyac/STIG-PowerShell)** — 20+ DISA STIGs automated via PowerShell  
 - **[10+ Audit & Remediation for Windows Server (Password, Encryption, Admin)](https://github.com/Shakiyac/Audit-Remediation-Win-Server)** — Windows server audit & policy enforcement  
-- **[15+ Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/Shakiyac/Programmatic-Remediation)** — Automated fixes using Bash & PowerShell  
+**15+ Programmatic Vulnerability Remediations (PowerShell & BASH)** — *Coming soon: Automated fixes using Bash & PowerShell*  
 - **[Vulnerability Management in Azure Sandbox](https://github.com/Shakiyac/Azure-Vulnerability)** — Nessus scanning, Azure sandbox hardening, and remediation  
 
 ### 🛡️ Threat Hunting & Security Operations
